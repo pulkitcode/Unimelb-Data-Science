@@ -20,7 +20,6 @@ Statistics
 Software Modelling and Design
 Computer Systems
 Web Information Technologies
-Science and Tech Internship
 ```
 
 <h3>COMP10001 - Foundations of Computing</h3>
