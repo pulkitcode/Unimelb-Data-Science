@@ -18,7 +18,6 @@ Object Oriented Software Development
 Probability
 Statistics
 Software Modelling and Design
-Computer Systems
 Web Information Technologies
 ```
 
