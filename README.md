@@ -2,7 +2,7 @@
 
 A brief overview about the subjects I did while at Unimelb pursuing an undergraduate degree majoring in Computing and Software Systems.
 
-Here are the subjects that I did and currently doing over the past 2 years. I was going on exchange to NUS but that got cancelled (twice), I have planned my entire third year on exchange to UIUC, Chicago. If you want advice on any of the subjects below or exchange, text me on linkedin or messenger.
+Here are the subjects that I did and currently doing over the past 2 years. If you want advice on any of the subjects below or exchange, text me on linkedin or messenger.
 
 ```yaml
 Foundations of Computing
