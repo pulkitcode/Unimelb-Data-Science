@@ -66,6 +66,6 @@ This is said to be one of the hard subjects which is not that true in my opinion
 <h3>SCIE30002 - Science and Tech Internship</h3>
 
 ```yaml
-I wanted to get the taste of real world data science work so I cold emailed some professors whether they have any research projects I can contribute to. The professors at Unimelb are very helpful and even if they had no projects, they connected me to other professors which eventually gave me a research intern position at uni. Doing unpaid work is worth the effort if that work teaches you a lot. I told my supervisor to give me a lot of work just so that I can learn. (Cold emailing professors and getting projects is much easier than finding a placement outside of uni).
+I wanted to get the taste of real world data science work so I cold emailed some professors whether they have any research projects I can contribute to. The professors at Unimelb are very helpful and even if they had no projects, they connected me to other professors which eventually gave me a research intern position at uni. Doing unpaid work is worth the effort if that work teaches you a lot (Cold emailing professors and getting projects is much easier than finding a placement outside of uni).
 ```
 
